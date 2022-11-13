@@ -9,4 +9,4 @@ and focuses on theoretical, technical, and statistical aspects. This project aim
 solve the problem of real-time anomaly detection. It has analyzed the most up-to-
 date Methods for detecting anomalies in big data, as well as studies network traffic
 and sensory measurements in real time of associated machine learning algorithms and
-locate cyber-attacks.
+locate cyber-attacks on UNSW_NB15 dataset
